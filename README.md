@@ -33,6 +33,6 @@ streamlit run app.py
 
 En premier lieu vous devez vous inscrire via le formulaire d'inscription.
 Ceci fait, vous devez vous connecter avec le login et le mot de passe que vous avez donné au préalable. 
-Une fois connecté, vous avez accès au formulaire pour choisir différents paramètres et voir sla prédiction du modèle (satisfait ou non) et avec quelle probabilité.
+Une fois connecté, vous avez accès au formulaire pour choisir différents paramètres et voir la prédiction du modèle (satisfait ou non) et avec quelle probabilité.
 Vous pourrez également voir les statistiques du modèle.
 
